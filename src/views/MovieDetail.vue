@@ -36,9 +36,9 @@ export default {
   padding: 16px;
   h2 {
     color: #FFF;
-    font-size: 28px;
+    font-size: 30px;
     font-weight: 600;
-    margin-bottom: 16px;
+    margin-bottom: 18px;
   }
   .featured-img {
     display: block;
